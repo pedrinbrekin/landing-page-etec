@@ -1,7 +1,7 @@
 Landing Page ETEC - MONTE ALTO
 
 Landing Page Institucional - ETEC ALCIDES CESTARI
-set de 2023 - nov de 2023set de 2023 - nov de 2023
+set de 2023 - nov de 2023
 
 Desenvolvi uma landing page institucional responsiva como parte de um projeto acadêmico na ETEC, com foco em apresentar de forma clara e atrativa as informações principais de uma Escola. O projeto envolveu planejamento de layout, design moderno e codificação em HTML, CSS e JavaScript.
 
